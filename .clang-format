@@ -1,0 +1,24 @@
+---
+IndentWidth: 4
+TabWidth: 4
+UseTab: AlignWithSpaces
+AlignConsecutiveAssignments:
+  Enabled: true
+  AcrossEmptyLines: false
+  AcrossComments: false
+  AlignCompound: false
+  AlignFunctionPointers: false
+  PadOperators: true
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+IndentPPDirectives: BeforeHash
+AlignEscapedNewlines: Left
+InsertNewlineAtEOF: true
+AccessModifierOffset: -4
+ConstructorInitializerIndentWidth: 0
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+AlignAfterOpenBracket: BlockIndent
+ColumnLimit: 150
+AlwaysBreakBeforeMultilineStrings: true
+ReferenceAlignment: Left
+PointerAlignment: Right
+AllowShortFunctionsOnASingleLine: Empty
