@@ -23,3 +23,5 @@ ReferenceAlignment: Left
 PointerAlignment: Right
 AllowShortFunctionsOnASingleLine: Empty
 AlwaysBreakTemplateDeclarations: Yes
+AlignConsecutiveMacros:
+  Enabled: true
